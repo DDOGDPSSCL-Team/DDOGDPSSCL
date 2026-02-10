@@ -51,8 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Framerate</div>
+                            <p>{{ level.framerate || '?' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
@@ -100,29 +100,41 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        A click or tap sound must be audible in the verifications. (Some exceptions might be made, but will probably not happen)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        All difficulty must come from the spam in the level. A singular triple spike jump or something similar, is excused from this.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Any method of spamming is allowed, unless the level has a banned method under the records section.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        A respawn time below 0.5 seconds is banned.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Use of more than 2 buttons while spamming is banned.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        CPS caps are banned unless the level says you can under the records section.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Levels must be beaten on the specified FPS, unless it says "CBF".
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Uncapped devices have a latency delay of 10ms or less. To find the latency delay for your device visit https://clickspeedtester.com/keyboard-latency-test/ and attempt to get a low latency delay
                     </p>
+                    <p>
+                        TPS bypass is allowed as long as the framerate is 240 or lower. CBF is its own seperate framerate.
+                    </p>
+                    <p>
+                        Handcam is not required. This rule may change at some point in the future.
+                    </p>
+                    <p>
+                        Rebinding is allowed as long as you're not pressing more than 2 different keys.
+                    </p>
+                    <p>
+                        Challenges on this list may exceed the 30 second limit normal challenge lists generally have.
+                    <p>
                 </div>
             </div>
         </main>
