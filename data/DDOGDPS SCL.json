@@ -1,1 +1,13 @@
-
+{
+    "id": 14253,
+    "name": "DDOGDPS SCL",
+    "author": "Blood",
+    "creators": [Blood],
+    "verifier": "Blood",
+    "verification": "https://youtu.be/9m9twBkNIzI",
+    "percentToQualify": "100",
+    "framerate": "30 fps",
+    "cps cap": "none",
+    "records": [
+    ]
+}
