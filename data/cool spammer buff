@@ -9,5 +9,11 @@
     "framerate": "30 fps",
     "cps cap": "none",
     "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/CJIXmmB7ZrQ",
+            "percent": 100,
+            "framerate": 30 fps
+        }
     ]
 }
