@@ -9,5 +9,11 @@
     "framerate": "30 fps",
     "cps cap": "none",
     "records": [
+        {
+            "user": "Glows",
+            "link": "https://youtu.be/c9WmYZpJOv8",
+            "percent": 100,
+            "hz": 30
+        }
     ]
 }
