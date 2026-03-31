@@ -6,7 +6,8 @@
     "verifier": "Blood",
     "verification": "https://youtu.be/93eW_466A-E",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "framerate": "60 fps",
+    "cps cap": "none",
     "records": [
     ]
 }
