@@ -6,7 +6,12 @@
     "verifier": "trickgmd",
     "verification": "https://youtube.com/shorts/gVPWydKeTIU?feature=share",
     "percentToQualify": "100",
-    "framerate": "cbf?",
     "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/2gzuN49j3fI",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
