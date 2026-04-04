@@ -1,1 +1,12 @@
-
+{
+    "id": 10810,
+    "name": "SAMPLELEVEL2",
+    "author": "cheesedude",
+    "creators": ["cheesedude"],
+    "verifier": "Glows",
+    "verification": "https://youtu.be/DOwq3eE_XiY",
+    "percentToQualify": "100",
+    "framerate": "cbf",
+    "records": [
+    ]
+}
