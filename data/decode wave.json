@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "framerate": "cbf",
     "records": [
+        {
+            "user": "Menda",
+            "link": "https://www.youtube.com/watch?v=GD85734SOFw",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/wGOyfkMW9Cc",
+            "percent": 100,
+            "hz": 200
+        }
     ]
 }
