@@ -6,6 +6,8 @@
     "verifier": "trickgmd",
     "verification": "https://youtube.com/shorts/gVPWydKeTIU?feature=share",
     "percentToQualify": "100",
+    "framerate": "cbf",
+    "cps cap": "none",
     "records": [
         {
             "user": "Blood",
