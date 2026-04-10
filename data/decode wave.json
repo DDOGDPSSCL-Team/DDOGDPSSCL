@@ -15,16 +15,16 @@
             "hz": 180
         },
         {
-            "user": "ted",
-            "link": "https://www.youtube.com/watch?v=WkTjnt4Bn3k",
-            "percent": 100,
-            "hz": 480
-        },
-        {
             "user": "Blood",
             "link": "https://youtu.be/wGOyfkMW9Cc",
             "percent": 100,
             "hz": 200
+        },
+        {
+            "user": "ted",
+            "link": "https://www.youtube.com/watch?v=WkTjnt4Bn3k",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
