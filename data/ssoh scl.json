@@ -4,7 +4,7 @@
     "author": "trickgmd",
     "creators": ["trickgmd"],
     "verifier": "trickgmd",
-    "verification": "https://youtube.com/shorts/gVPWydKeTIU?feature=share",
+    "verification": "https://youtu.be/gVPWydKeTIU",
     "percentToQualify": "100",
     "framerate": "cbf",
     "cps cap": "none",
@@ -14,6 +14,12 @@
             "link": "https://youtu.be/2gzuN49j3fI",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Monkey",
+            "link": "https://youtu.be/LfNnqIDiL7c",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
