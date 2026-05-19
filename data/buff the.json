@@ -2,17 +2,17 @@
     "id": 16697,
     "name": "buff the",
     "author": "Menda",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "creators": ["Menda", "Blood"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/IWT2AcUV5qk",
+    "percentToQualify": 100,
+    "framerate": "60",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Blood",
+            "link": "https://youtu.be/Hu8vP6UJAJM",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
