@@ -7,6 +7,7 @@
     "verification": "https://youtu.be/IWT2AcUV5qk",
     "percentToQualify": 100,
     "framerate": "60",
+    "cps cap": "none",
     "records": [
         {
             "user": "Blood",
