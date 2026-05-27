@@ -1,0 +1,19 @@
+{
+    "id": 16907,
+    "name": "Omega Jeffery chal",
+    "author": "Monkey",
+    "creators": ["Monkey"],
+    "verifier": "Monkey",
+    "verification": "https://youtu.be/6zE-vq6IiVo",
+    "percentToQualify": "100",
+    "framerate": "cbf",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/7LkTRmAF-QI",
+            "percent": 100,
+            "hz": 200
+        }
+    ]
+}
