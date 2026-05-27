@@ -9,5 +9,11 @@
     "framerate": "cbf",
     "cps cap": "none",
     "records": [
+        {
+            "user": "Monkey",
+            "link": "https://youtu.be/3XuLrBhwCI",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
