@@ -1,0 +1,19 @@
+{
+    "id": 16932,
+    "name": "851HELLISH",
+    "author": "Menda",
+    "creators": ["Menda"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/UvNUc0xqarg",
+    "percentToQualify": "100",
+    "framerate": "60",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/TjbwQlbt7OI",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
