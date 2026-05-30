@@ -1,0 +1,19 @@
+{
+    "id": 14253,
+    "name": "Silent Politergyatt big spam",
+    "author": "Menda",
+    "creators": ["Menda"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/JJRGkwAGZd8",
+    "percentToQualify": "100",
+    "framerate": "30 fps",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/mFkjLxHuziw",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
