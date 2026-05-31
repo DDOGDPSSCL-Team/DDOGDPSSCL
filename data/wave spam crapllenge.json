@@ -1,0 +1,19 @@
+{
+    "id": 16699,
+    "name": "wave spam crapllenge",
+    "author": "Menda",
+    "creators": ["Menda"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/af0iEFIUSiE",
+    "percentToQualify": "100",
+    "framerate": "cbf",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/XeQmM6LSR04",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
