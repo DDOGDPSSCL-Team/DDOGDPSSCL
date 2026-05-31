@@ -1,0 +1,19 @@
+{
+    "id": 5702,
+    "name": "Clickium Spam",
+    "author": "quixonicgd",
+    "creators": ["quixonicgd"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/ZWXhsuZWo0s",
+    "percentToQualify": "100",
+    "framerate": "cbf",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/7sEpx515yPI",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
