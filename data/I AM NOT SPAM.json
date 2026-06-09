@@ -1,0 +1,19 @@
+{
+    "id": 17120,
+    "name": "I AM NOT SPAM",
+    "author": "Menda",
+    "creators": ["Menda"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/Ru1ant0zTGU",
+    "percentToQualify": "100",
+    "framerate": "cbf",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/CjrPvgFSKcw",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
