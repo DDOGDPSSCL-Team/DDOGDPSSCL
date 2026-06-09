@@ -1,0 +1,19 @@
+{
+    "id": 17063,
+    "name": "top 5 btw",
+    "author": "Menda",
+    "creators": ["Menda"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/uNzGx9VTglc",
+    "percentToQualify": "100",
+    "framerate": "60",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/CjrPvgFSKcw",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
