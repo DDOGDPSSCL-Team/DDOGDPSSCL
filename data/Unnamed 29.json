@@ -1,0 +1,19 @@
+{
+    "id": 17117,
+    "name": "Unnamed 29",
+    "author": "Menda",
+    "creators": ["Menda"],
+    "verifier": "Menda",
+    "verification": "https://youtu.be/1FvQcC2Ow4k",
+    "percentToQualify": "100",
+    "framerate": "cbf",
+    "cps cap": "none",
+    "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/CjrPvgFSKcw",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
