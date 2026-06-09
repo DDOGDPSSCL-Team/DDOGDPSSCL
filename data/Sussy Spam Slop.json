@@ -9,5 +9,11 @@
     "framerate": "cbf",
     "cps cap": "none",
     "records": [
+        {
+            "user": "Blood",
+            "link": "https://youtu.be/CjrPvgFSKcw",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
